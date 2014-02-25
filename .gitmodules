@@ -1,0 +1,3 @@
+[submodule "django_apogee"]
+	path = django_apogee
+	url = git@github.com:fsx999/django_apogee.git
